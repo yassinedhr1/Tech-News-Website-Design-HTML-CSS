@@ -1,0 +1,57 @@
+body {
+    
+    background-color: #bdc3c7;
+    line-height: 1.5;
+    
+
+}
+.body{
+    width: 80%;
+    margin: 10px auto;
+}
+.mainHeader nav{
+    background-color:cadetblue;
+    text-align: center;
+    height: 40px;
+
+}
+.mainHeader nav ul{
+    list-style: none;
+    
+}
+.mainHeader nav ul li{
+    display :inline-block;
+    margin: 4px;
+    
+    
+}
+.mainHeader nav ul li a{
+    color:white;
+
+}
+
+
+a{
+    text-decoration: none;
+}
+.topContent{
+    width:60%;
+    background-color: aliceblue;
+    padding: 3%;
+    margin-top: 8px;
+    float:left;
+    }
+
+.asideBar{
+    width:30%;
+    background-color: azure;
+    padding: 2px;
+    float: left;
+    margin:8px;
+}
+.footer{
+    float: left;
+    background-color: rgb(18, 138, 162);
+    width: 100%;
+    margin-top: 8px;
+}
